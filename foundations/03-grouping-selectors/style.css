@@ -1,0 +1,13 @@
+.african, .chinese {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.african {
+    background-color: black;
+    color: white;
+}
+
+.chinese {
+    background-color: yellow;
+}
